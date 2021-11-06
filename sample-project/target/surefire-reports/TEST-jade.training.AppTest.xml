@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="jade.training.AppTest" time="0.005" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="jade.training.AppTest" time="0.002" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/test-classes:/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/classes:/home/jade/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jade/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/test-classes:/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/classes:/home/jade/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jade/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/jade/.m2/repository/org/assertj/assertj-core/3.21.0/assertj-core-3.21.0.jar:"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
@@ -16,9 +16,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/surefire/surefirebooter15849523080846005104.jar /home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/surefire 2021-11-06T10-49-47_900-jvmRun1 surefire10417244916623851052tmp surefire_010820340549201829063tmp"/>
+    <property name="sun.java.command" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/surefire/surefirebooter6793719857522969745.jar /home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/surefire 2021-11-06T11-12-29_961-jvmRun1 surefire18290493589495608727tmp surefire_010157810163940166258tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/test-classes:/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/classes:/home/jade/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jade/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/test-classes:/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/classes:/home/jade/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/jade/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/jade/.m2/repository/org/assertj/assertj-core/3.21.0/assertj-core-3.21.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/jade"/>
     <property name="user.language" value="fr"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/surefire/surefirebooter15849523080846005104.jar"/>
+    <property name="surefire.real.class.path" value="/home/jade/Documents/github/jadecrtl/maven_tutorial/sample-project/target/surefire/surefirebooter6793719857522969745.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.11+9-Ubuntu-0ubuntu2.20.04"/>
     <property name="user.name" value="jade"/>

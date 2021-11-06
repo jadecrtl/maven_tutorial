@@ -1,6 +1,6 @@
 package jade.training;
 
-import static org.junit.Assert.assertTrue;
+import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.Test;
 
@@ -15,6 +15,6 @@ public class App2Test
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertThat(true).isEqualTo(true);
     }
 }
